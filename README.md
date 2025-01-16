@@ -9,4 +9,6 @@ HTML
 CSS
 
 How to view
-git clone https://github.com/yourusername/reestar.git
+git clone  https://trdharanisha.github.io/food-site/
+
+Thank you!!

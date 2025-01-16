@@ -1,0 +1,55 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+li, ul{
+    text-align: center;
+    display: inline;
+}
+li{
+    padding-left: 8px;
+    color: gray;
+    cursor: pointer;
+    font-size: 20px;
+}
+li:hover{
+    color: white;
+}
+.box{
+    margin-top: 15px;
+    border: solid;
+    display: inline-block;
+    width: 200px;
+}
+.dish{
+    text-align: center;
+}
+.subbox{
+    background-color:black;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 19px;
+    
+}
+.subbox:hover{
+    color: black;
+    background-color: orangered;
+}
+.contact{
+    margin-top: 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.design{
+    background-color: yellow ; 
+    text-align: center; 
+    color: black; 
+    padding:180px; 
+    padding-top: 5px;
+     padding-bottom: 5px; 
+     display: inline-block; 
+     margin: 10px;
+}
